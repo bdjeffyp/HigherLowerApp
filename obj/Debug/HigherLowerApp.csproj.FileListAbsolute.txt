@@ -1,0 +1,9 @@
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\bin\Debug\HigherLowerApp.exe.config
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\bin\Debug\HigherLowerApp.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\bin\Debug\HigherLowerApp.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\obj\Debug\HigherLowerApp.csprojResolveAssemblyReference.cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\obj\Debug\HigherLowerApp.Properties.Resources.resources
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\obj\Debug\HigherLowerApp.csproj.GenerateResource.Cache
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\obj\Debug\HigherLowerApp.exe
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\obj\Debug\HigherLowerApp.pdb
+C:\Users\wwstudent\Documents\Visual Studio 2017\Projects\HigherLowerApp\HigherLowerApp\obj\Debug\HigherLowerApp.GameWindow.resources
