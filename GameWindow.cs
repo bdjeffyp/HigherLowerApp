@@ -70,7 +70,7 @@ namespace HigherLowerApp
 
             // Initialize the random number generator and pick a new number.
             randomizer = new Random();
-            numberToGuess = randomizer.Next(MIN_NUMBER, MAX_NUMBER);
+            numberToGuess = randomizer.Next(MIN_NUMBER, MAX_NUMBER + 1);
 
             // The player hasn't won yet!
             winner = false;
