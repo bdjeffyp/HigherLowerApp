@@ -98,7 +98,7 @@ namespace HigherLowerApp
 
             // Reseed the random number generator
             // Remember: Next's max value will not be selected, so add one!
-            randomizer = new Random();
+            //randomizer = new Random();
             numberToGuess = randomizer.Next(MIN_NUMBER, MAX_NUMBER + 1);
 
             // Reset the winner flag
